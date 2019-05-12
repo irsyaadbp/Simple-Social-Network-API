@@ -5,7 +5,6 @@ Practice creating simple API with NodeJs + ExpressJs + MongoDB
 ## Install node modules
 ``` 
 npm install 
-yarn install
 ```
 
 ## Create .env file
